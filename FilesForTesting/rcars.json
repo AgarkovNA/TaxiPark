@@ -1,0 +1,11 @@
+[  
+    {  
+        "model":"Pegoute",
+        "maxPassangers":"4",
+        "parkName": "MyPark",
+        "kmCost":"2",
+	"landingCost":"3",
+	"music":"true",
+	"kmFuel":"0.13"
+    }
+]

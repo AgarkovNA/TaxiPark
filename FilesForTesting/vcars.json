@@ -1,0 +1,11 @@
+[  
+    {  
+        "model":"BMW",
+        "maxPassangers":"4",
+        "parkName": "MyPark",
+        "kmCost":"4",
+	"landingCost":"5",
+	"wifiPassword":"true",
+	"kmFuel":"0.23"
+    }
+]
